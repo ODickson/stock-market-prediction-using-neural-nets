@@ -5,4 +5,4 @@ This project was initially meant to be a way of combining learning about neural 
 Overview:\
 [1. Curation of a stock market data set using webscraping and APIs]()\
 [2. Training and testing of a LSTM model]()\
-[3. Predict tomorrows highest risers]()
+[3. Predict the next months highest risers]()
